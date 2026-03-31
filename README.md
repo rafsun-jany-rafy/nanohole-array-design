@@ -69,7 +69,7 @@ InfoGAN introduces structured latent codes and mutual information maximization t
 ## Figure Placeholders
 
 ### Forward Model Architecture
-![Forward Model](figures/forwarddesign.png)
+![Forward Model](figures/forward_design.png)
 
 ### CVAE Architecture
 ![CVAE Architecture](figures/cvae_architecture.png)
