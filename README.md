@@ -88,7 +88,7 @@ InfoGAN introduces structured latent codes and mutual information maximization t
   <img src="figures/InfoGAN.drawio.png" alt="InfoGAN Architecture" width="750"/>
 </p>
 
-<! ### Example Results>
+<!-- ### Example Results>
 
 
 ---
