@@ -88,42 +88,73 @@ InfoGAN introduces structured latent codes and mutual information maximization t
   <img src="figures/InfoGAN.drawio.png" alt="InfoGAN Architecture" width="750"/>
 </p>
 
-### Example Results
-![Results Overview](figures/results_overview.png)
+> ### Example Results
 
-> Replace these image paths with your actual figure filenames.
 
 ---
 
-## Suggested Repository Structure
-
-```bash
-.
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── README.md
-├── notebooks/
-│   ├── forward_model.ipynb
-│   ├── final_cvae_model.ipynb
-│   ├── infogan_model.ipynb
-│   └── bo_optimization.ipynb
-├── scripts/
-│   ├── train_forward.py
-│   ├── train_cvae.py
-│   ├── train_infogan.py
-│   ├── run_bo.py
-│   └── evaluate.py
-├── models/
-│   ├── forward_model.py
-│   ├── cvae.py
-│   ├── infogan.py
-│   └── utils.py
-├── figures/
-├── results/
-│   ├── checkpoints/
-│   ├── plots/
-│   └── tables/
-├── thesis_report.pdf
-├── requirements.txt
-└── README.md
+> ## Suggested Repository Structure
+> 
+> 
+> 
+> ```bash
+> 
+> .
+> 
+> ├── data/
+> 
+> │   ├── raw/
+> 
+> │   ├── processed/
+> 
+> │   └── README.md
+> 
+> ├── notebooks/
+> 
+> │   ├── forward_model.ipynb
+> 
+> │   ├── final_cvae_model.ipynb
+> 
+> │   ├── infogan_model.ipynb
+> 
+> │   └── bo_optimization.ipynb
+> 
+> ├── scripts/
+> 
+> │   ├── train_forward.py
+> 
+> │   ├── train_cvae.py
+> 
+> │   ├── train_infogan.py
+> 
+> │   ├── run_bo.py
+> 
+> │   └── evaluate.py
+> 
+> ├── models/
+> 
+> │   ├── forward_model.py
+> 
+> │   ├── cvae.py
+> 
+> │   ├── infogan.py
+> 
+> │   └── utils.py
+> 
+> ├── figures/
+> 
+> ├── results/
+> 
+> │   ├── checkpoints/
+> 
+> │   ├── plots/
+> 
+> │   └── tables/
+> 
+> ├── thesis_report.pdf
+> 
+> ├── requirements.txt
+> 
+> └── README.md
+> 
+> 
